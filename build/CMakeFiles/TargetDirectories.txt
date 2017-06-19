@@ -1,0 +1,3 @@
+/home/eve/S-VPN-master/build/src/client/CMakeFiles/sclient.dir
+/home/eve/S-VPN-master/build/src/server/CMakeFiles/sserver.dir
+/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir
