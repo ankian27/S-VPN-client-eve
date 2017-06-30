@@ -5,7 +5,9 @@ SET(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_C
   "/home/eve/S-VPN-master/src/lib/crypt.c" "/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir/crypt.c.o"
+  "/home/eve/S-VPN-master/src/lib/dc_bytecounter.c" "/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir/dc_bytecounter.c.o"
   "/home/eve/S-VPN-master/src/lib/md5.c" "/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir/md5.c.o"
+  "/home/eve/S-VPN-master/src/lib/minicomp.c" "/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir/minicomp.c.o"
   "/home/eve/S-VPN-master/src/lib/util.c" "/home/eve/S-VPN-master/build/src/lib/CMakeFiles/svpn.dir/util.c.o"
   )
 SET(CMAKE_C_COMPILER_ID "GNU")

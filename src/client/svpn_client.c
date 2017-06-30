@@ -26,7 +26,7 @@
 #define ACC_TIME      10000000
 #define ENCRYPT 0
 #define BUFFSIZE   42
-#define DYN 1
+#define DYN 0
 
 static void svpn_sig_handler(int sig) {
 	char buffer[] = "Signal?\n";
